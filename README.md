@@ -10,7 +10,6 @@
 `alishplugins/alish-module` is a Laravel package which created to manage your large Laravel app using modules. Module is like a Laravel package, it has some views, controllers or models. This package is supported and tested in Laravel 8.
 
 
-Find out why you should use this package in the article: [Writing modular applications with laravel-modules]().
 
 ## Install
 
@@ -45,9 +44,6 @@ By default, the module classes are not loaded automatically. You can autoload yo
 
 **Tip: don't forget to run `composer dump-autoload` afterwards.**
 
-## Documentation
-
-You'll find installation instructions and full documentation on [https://alish.io/alish-modules/]().
 
 ## Credits
 
