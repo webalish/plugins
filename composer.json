@@ -62,6 +62,6 @@
         "test-coverage": "vendor/bin/phpunit --debug --coverage-html coverage",
         "pcf": "vendor/bin/php-cs-fixer fix --verbose"
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "minimum-stability": "Version",
+    "prefer-stable": false
 }
