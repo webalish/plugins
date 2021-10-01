@@ -53,7 +53,7 @@
             }
         },
         "branch-alias": {
-            "dev-master": "8.0-dev"
+            "dev-master": "v1.0"
         }
     },
     "scripts": {
