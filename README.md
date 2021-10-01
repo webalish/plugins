@@ -1,11 +1,11 @@
 # Alish-Modules
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/nwidart/laravel-modules.svg?style=flat-square)](https://packagist.org/packages/alishplugins/alish-module)
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Latest Version on Packagist](https://img.shields.io/badge/Version-1.0-green)](https://packagist.org/packages/alishplugins/alish-module)
+[![Software License](https://img.shields.io/github/license/webalish/plugins)](LICENSE.md)
 
 | **Alish**  |  **Alish-modules** |
 |---|---|
-| 9.0  | ^9.0 |
+| 1.0  | ^1.0 |
 
 `alishplugins/alish-module` is a Laravel package which created to manage your large Laravel app using modules. Module is like a Laravel package, it has some views, controllers or models. This package is supported and tested in Laravel 8.
 
